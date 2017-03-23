@@ -1,4 +1,3 @@
-"# golang-aws-s3-replicate" 
 # golang-aws-s3-replicate
 
 ----
